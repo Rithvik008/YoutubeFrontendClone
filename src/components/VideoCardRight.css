@@ -1,0 +1,26 @@
+.vid-image-right{
+    height: 110px;
+    width: 180px;
+    border-radius: 10px;
+    margin-right: 10px;
+    object-fit: cover;
+}
+
+.vid-card-right{
+    display: flex;
+    margin-bottom: 8px; 
+    width: 400px; 
+}
+
+.vid-date-info{
+    display: flex;
+    font-weight: 100;
+}
+
+.vid-info-right{
+    margin-top: 15px;
+}
+
+.vid-username{
+    font-weight: 100;
+}

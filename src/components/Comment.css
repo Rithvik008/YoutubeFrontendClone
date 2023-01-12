@@ -1,0 +1,28 @@
+.comment{
+    margin-bottom:15px ;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    height: fit-content;
+}
+
+.comment-username-date{
+    display: flex;
+}
+
+.comment-username{
+    margin-right: 8px;
+}
+
+.comment-info{
+    margin-left: 10px;
+
+}
+
+.comment-date{
+    font-weight: 100;
+}
+
+.comment-content{
+    font-weight: 200;
+}

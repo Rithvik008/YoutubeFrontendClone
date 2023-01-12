@@ -1,0 +1,47 @@
+.video-card{
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+    color: white;
+}
+
+.image{
+    height: 180px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+.title-dp{
+    display: flex;
+    align-items: center;
+}
+
+.title{
+    margin-left: 10px;
+}
+
+.dp{
+    border-radius: 100px;
+    height: 35px;
+    width: 35px;
+    object-fit: cover;
+}
+
+.username{
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.date-info{
+    display: flex;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.date-upl{
+    margin-left: 8px;
+}
+
+.lighter{
+    color: rgb(132, 136, 141);
+}

@@ -1,0 +1,13 @@
+.menu{
+    background-color: #0f0f0f;
+    /* height: calc(100vh - 50px); */
+    height: fit-content;
+}
+
+.video-card-wrapper{
+    margin-right: 20px;
+    margin-left: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

@@ -1,0 +1,59 @@
+.sidebar{
+    color: white;
+    flex:1;
+    height: calc(100vh - 20px);
+    background-color: #0f0f0f;
+    padding: 10px;
+    width: 150px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.link{
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    justify-content: center;
+    color: inherit;
+    margin-bottom: 10px;
+}
+
+.link-text{
+    padding-left: 5px;
+}
+
+.links{
+    margin-top: 20px;
+}
+
+.links hr{
+    height: 1.5px;
+    background-color: #282927;
+    border: none;
+    border-radius: 10px;
+}
+
+.info{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.sign-in{
+    display: flex;
+    justify-content: center;
+    border-radius: 3px;
+    color: white;
+    border-color:white;
+    background-color: transparent;
+    margin-bottom: 10px;
+}
