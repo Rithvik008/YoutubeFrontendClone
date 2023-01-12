@@ -5,6 +5,7 @@ Three pages:
 1) Home Page with all the videocards,sidebar and navbar.
 2) Login and Signup Page with input fields and buttons.
 3) VideoPage with video player, sidebar, navbar, video cards in the right, comment section at the bottom.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
