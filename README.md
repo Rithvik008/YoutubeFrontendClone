@@ -6,6 +6,9 @@ Three pages:
 2) Login and Signup Page with input fields and buttons.
 3) VideoPage with video player, sidebar, navbar, video cards in the right, comment section at the bottom.
 
+Contains react-routing using react-router-dom.
+Also contains icons from font-awesome.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
